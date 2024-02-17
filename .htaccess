@@ -1,0 +1,4 @@
+AuthUserFile C:/xamppp/htdocs/siasia/.htpasswd
+AuthName "Authorized personnel only."
+AuthType Basic
+Require valid-user
